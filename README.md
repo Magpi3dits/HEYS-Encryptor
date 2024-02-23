@@ -1,4 +1,6 @@
-Buggy as fuck
+Buggy as f***
+
+Can only support encryption of 2 char's at a time for now - TODO
 
 Also very messy code! Bear in mind.
 
