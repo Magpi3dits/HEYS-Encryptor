@@ -261,16 +261,16 @@ while True:
     input("Press any Enter/Return to continue ...")
 
 
-    if k2 == '':
+    if k2 == '' and round_count == 2:
         errorHandling()
 
-    if k3 == '':
+    if k3 == '' and round_count == 3:
         errorHandling()
 
-    if k4 == '':
+    if k4 == '' and round_count == 4:
         errorHandling()
 
-    if k5 == '':
+    if k5 == '' and round_count == 5:
         errorHandling()
 
     if round_count == 4:
